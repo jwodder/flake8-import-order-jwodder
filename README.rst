@@ -3,8 +3,8 @@
     :alt: Project Status: WIP — Initial development is in progress, but there
           has not yet been a stable, usable release suitable for the public.
 
-.. image:: https://travis-ci.org/jwodder/flake8-import-order-jwodder.svg?branch=master
-    :target: https://travis-ci.org/jwodder/flake8-import-order-jwodder
+.. image:: https://travis-ci.com/jwodder/flake8-import-order-jwodder.svg?branch=master
+    :target: https://travis-ci.com/jwodder/flake8-import-order-jwodder
 
 .. image:: https://codecov.io/gh/jwodder/flake8-import-order-jwodder/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/jwodder/flake8-import-order-jwodder
