@@ -1,6 +1,12 @@
 """
 Yet another import order style
 
+``flake8-import-order-jwodder`` defines an import order style ``jwodder`` for
+use with flake8-import-order <https://pypi.org/project/flake8-import-order/>.
+The ``jwodder`` style is the same as the ``appnexus`` style bundled with
+``flake8-import-order``, except that names in ``from X import ...`` lines are
+sorted case-sensitively.
+
 Visit <https://github.com/jwodder/flake8-import-order-jwodder> for more
 information.
 """
