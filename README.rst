@@ -22,6 +22,7 @@
 `GitHub <https://github.com/jwodder/flake8-import-order-jwodder>`_
 | `PyPI <https://pypi.org/project/flake8-import-order-jwodder/>`_
 | `Issues <https://github.com/jwodder/flake8-import-order-jwodder/issues>`_
+| `Changelog <https://github.com/jwodder/flake8-import-order-jwodder/blob/master/CHANGELOG.md>`_
 
 ``flake8-import-order-jwodder`` defines an import order style ``jwodder`` for
 use with `flake8-import-order
