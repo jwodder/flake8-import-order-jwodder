@@ -3,8 +3,9 @@
     :alt: Project Status: Active — The project has reached a stable, usable
           state and is being actively developed.
 
-.. image:: https://travis-ci.com/jwodder/flake8-import-order-jwodder.svg?branch=master
-    :target: https://travis-ci.com/jwodder/flake8-import-order-jwodder
+.. image:: https://github.com/jwodder/flake8-import-order-jwodder/workflows/Test/badge.svg?branch=master
+    :target: https://github.com/jwodder/flake8-import-order-jwodder/actions?workflow=Test
+    :alt: CI Status
 
 .. image:: https://codecov.io/gh/jwodder/flake8-import-order-jwodder/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/jwodder/flake8-import-order-jwodder
