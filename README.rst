@@ -30,10 +30,11 @@ that names in ``from X import ...`` lines are sorted case-sensitively.
 
 Installation
 ============
-Just use `pip <https://pip.pypa.io>`_ (You have pip, right?) to install
+``flake8-import-order-jwodder`` requires Python 3.6 or higher.  Just use `pip
+<https://pip.pypa.io>`_ for Python 3 (You have pip, right?) to install
 ``flake8-import-order-jwodder`` and its dependencies::
 
-    pip install flake8-import-order-jwodder
+    python3 -m pip install flake8-import-order-jwodder
 
 
 Example
